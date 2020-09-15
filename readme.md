@@ -1,8 +1,8 @@
 # 2wayshare
 Share file between your phone and PC
 
-## Download Servers
-[2wayshare 1.0.0](https://github.com/haruncpi/2wayshare/releases/download/v1.0.0/2wayshare-1.0.0.exe)
+## Server
+[Download 2wayshare 1.0.1](https://github.com/haruncpi/2wayshare/releases/download/v1.0.1/2wayshare-1.0.1.exe)
 
-## Download Android App
-[2wayshare Android](https://play.google.com/store/apps/details?id=com.learn24bd.twowayshare)
+## Android App
+[Download 2wayshare Android](https://play.google.com/store/apps/details?id=com.learn24bd.twowayshare)
